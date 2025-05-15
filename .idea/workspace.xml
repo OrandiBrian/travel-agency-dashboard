@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef23503a-c6b7-43b4-a440-303f73088c2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_app" beforeDir="false" afterPath="$PROJECT_DIR$/react_app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react_app/my-first-react-app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_app/my-first-react-app/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react_app/my-first-react-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react_app/my-first-react-app/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react_app/my-first-react-app/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_app/my-first-react-app/vite.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-agency" beforeDir="false" afterPath="$PROJECT_DIR$/travel-agency" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel-agency/app/app.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/travel-agency/app/root.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/travel-agency/app/routes.ts" beforeDir="false" />
@@ -70,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746941017916</updated>
       <workItem from="1746941019023" duration="9992000" />
-      <workItem from="1747316386344" duration="1497000" />
+      <workItem from="1747316386344" duration="1805000" />
     </task>
     <servers />
   </component>
